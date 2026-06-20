@@ -1,0 +1,141 @@
+{
+  "Auto Renewal": {
+    "severity": "high",
+    "description": "Automatically renews subscriptions or memberships without requiring fresh user consent.",
+    "examples": [
+      "subscription renews automatically unless cancelled",
+      "membership renews every year automatically",
+      "billing recurs monthly without further notice"
+    ]
+  },
+
+  "Data Sharing": {
+    "severity": "critical",
+    "description": "Allows personal information to be shared with external parties, creating privacy and security risks.",
+    "examples": [
+      "we may share your personal data with third parties",
+      "user information may be disclosed to partners",
+      "your data can be transferred to advertisers"
+    ]
+  },
+
+  "Termination Rights": {
+    "severity": "high",
+    "description": "Gives the company broad authority to suspend or terminate accounts without warning.",
+    "examples": [
+      "we may terminate your account at any time",
+      "services may be discontinued without notice",
+      "access can be revoked at sole discretion"
+    ]
+  },
+
+  "Hidden Charges": {
+    "severity": "critical",
+    "description": "Permits unexpected fees or pricing changes that may financially impact users.",
+    "examples": [
+      "additional fees may apply without prior notice",
+      "service charges can be modified at any time",
+      "pricing may change without user consent"
+    ]
+  },
+
+  "Liability Waiver": {
+    "severity": "critical",
+    "description": "Limits or removes the company’s responsibility for damages, losses, or legal claims.",
+    "examples": [
+      "we are not responsible for any damages",
+      "users waive the right to legal claims",
+      "company holds no liability for losses"
+    ]
+  },
+
+  "Forced Arbitration": {
+    "severity": "high",
+    "description": "Requires disputes to be resolved privately instead of through courts.",
+    "examples": [
+      "all disputes must be resolved through arbitration",
+      "users waive the right to court proceedings",
+      "disputes must be resolved through binding arbitration"
+    ]
+  },
+
+  "Content Ownership Transfer": {
+    "severity": "critical",
+    "description": "Transfers ownership or broad usage rights of user-created content to the company.",
+    "examples": [
+      "uploaded content becomes property of the company",
+      "users grant perpetual rights to submitted material",
+      "platform may reuse your content without compensation"
+    ]
+  },
+
+  "Location Tracking": {
+    "severity": "critical",
+    "description": "Allows continuous collection or monitoring of a user’s physical location.",
+    "examples": [
+      "application may collect real-time location data",
+      "gps information can be monitored continuously",
+      "user movements may be tracked for analytics"
+    ]
+  },
+
+  "Data Retention": {
+    "severity": "high",
+    "description": "Allows the company to retain user data even after account deletion or inactivity.",
+    "examples": [
+      "personal information may be retained after account deletion",
+      "records can be stored for legal compliance purposes",
+      "deleted data may persist in backup systems"
+    ]
+  },
+
+  "Cross-Border Data Transfer": {
+    "severity": "high",
+    "description": "Permits user data to be stored or processed in foreign jurisdictions with different privacy laws.",
+    "examples": [
+      "information may be processed outside your country",
+      "user data can be transferred internationally",
+      "foreign servers may store personal records"
+    ]
+  },
+
+  "Biometric Data Usage": {
+    "severity": "critical",
+    "description": "Allows collection or processing of sensitive biometric identifiers such as fingerprints or facial scans.",
+    "examples": [
+      "facial recognition data may be collected",
+      "fingerprint information can be stored for authentication",
+      "biometric identifiers may be processed by the service"
+    ]
+  },
+
+  "Class Action Waiver": {
+    "severity": "high",
+    "description": "Prevents users from joining collective legal actions against the company.",
+    "examples": [
+      "users may not participate in class action lawsuits",
+      "claims must be filed individually",
+      "collective legal proceedings are prohibited"
+    ]
+  },
+
+  "Payment Authorization": {
+    "severity": "high",
+    "description": "Allows stored payment methods to be charged automatically under certain conditions.",
+    "examples": [
+      "saved payment methods may be charged automatically",
+      "billing information can be stored for future purchases",
+      "transactions may proceed using default payment settings"
+    ]
+  },
+
+  "Refund Restrictions": {
+    "severity": "high",
+    "description": "Limits a user's ability to recover payments or receive reimbursements.",
+    "examples": [
+      "payments may be non-refundable after processing",
+      "refund eligibility can be limited by policy",
+      "partial reimbursements may be denied at discretion"
+    ]
+  }
+}
